@@ -1,4 +1,1 @@
-TODO LIST:
-1. 加入层级标签预测的子任务
-2. 对单个帖子的特征融合做改进，可以先尝试信息瓶颈
-3. 对预训练特征做微调
+Anonymous repository of "Improving Social Media Popularity Prediction with Multiple Post Dependencies" for MM2023
